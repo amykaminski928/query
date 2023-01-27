@@ -9,7 +9,7 @@ DATABASES = {
         'ENGINE': 'mysql.connector.django',
         'NAME': 'school_db',
         'USER': 'root',
-        'PASSWORD': '0liver-El@1se',
+        'PASSWORD': 'root',
         'HOST': '127.0.0.1',
         'PORT': '3306',
         'OPTIONS': {
